@@ -1,5 +1,3 @@
-import "./styles.scss";
-
 const formularioDeBusca = document.querySelector("form");
 const inputFato = document.querySelector(".buscar_fato__input");
 const botaoBuscar = document.getElementById("botao-buscar");
