@@ -1,402 +1,123 @@
 [
     {
-        "indice": 1,
-        "texto": "Frida Kahlo nasceu em 6 de julho de 1907, em Coyoacán, México. Sua casa, conhecida como 'La Casa Azul', é hoje um museu dedicado à sua vida e obra. Ela era a terceira filha de quatro irmãs e teve uma infância marcada por problemas de saúde. Aos 6 anos, contraiu poliomielite, o que afetou sua perna direita. Apesar disso, Frida era uma criança cheia de energia e curiosidade."
+      "indice": 1,
+      "texto": "Frida Kahlo nasceu em 6 de julho de 1907, em Coyoacán, México. Era filha de Guillermo Kahlo, um fotógrafo alemão, e Matilde Calderón, de origem indígena e espanhola. Desde cedo, Frida demonstrou interesse pela arte. Cresceu em um ambiente familiar conservador e católico."
     },
     {
-        "indice": 2,
-        "texto": "Aos 18 anos, Frida sofreu um grave acidente de ônibus, que a deixou com múltiplas fraturas na coluna, costelas e pélvis. Durante sua recuperação, ela começou a pintar para passar o tempo. Seu primeiro autorretrato, 'Autorretrato com Vestido de Veludo', foi um presente para seu namorado da época. A arte se tornou uma forma de expressar sua dor e suas emoções."
+      "indice": 2,
+      "texto": "Aos seis anos, Frida contraiu poliomielite, o que deixou sua perna direita mais fina e frágil. Para compensar a fraqueza, usava calças e saias longas, algo que se tornaria sua marca. A doença fez com que fosse alvo de bullying na infância. Seu pai a incentivou a praticar esportes para fortalecer a perna."
     },
     {
-        "indice": 3,
-        "texto": "Frida Kahlo se casou com o muralista Diego Rivera em 1929. O casamento foi marcado por paixão, traições e reconciliações. Diego admirava o talento de Frida, mas seus casos extraconjugais a magoavam profundamente. Apesar dos conflitos, eles se influenciaram artisticamente e permaneceram próximos até o fim da vida de Frida."
+      "indice": 3,
+      "texto": "Em 1922, Frida ingressou na Escola Nacional Preparatória da Cidade do México, uma das poucas mulheres admitidas na época. Lá, começou a se envolver com grupos intelectuais e políticos. Demonstrava grande interesse pela medicina e anatomia. Foi nessa época que conheceu Diego Rivera."
     },
     {
-        "indice": 4,
-        "texto": "Ela é conhecida por seus autorretratos, que representam sua dor física e emocional. Frida disse: 'Pinto a mim mesma porque sou sozinha e porque sou o assunto que conheço melhor.' Seus quadros exploram temas como identidade, gênero e cultura mexicana. Sua arte é uma janela para sua alma e suas lutas pessoais."
+      "indice": 4,
+      "texto": "Aos 18 anos, em 1925, sofreu um grave acidente de bonde que mudou sua vida. Uma barra de ferro perfurou seu abdômen e pélvis, causando ferimentos severos. Passou meses imobilizada e submeteu-se a múltiplas cirurgias. Durante a recuperação, começou a pintar para aliviar a dor."
     },
     {
-        "indice": 5,
-        "texto": "Frida Kahlo teve mais de 30 cirurgias ao longo da vida devido às sequelas do acidente. Ela passou longos períodos hospitalizada ou de cama, o que a levou a pintar muitos de seus quadros mais famosos nesse contexto. Sua dor física era constante, mas ela a transformava em arte. Frida usava corsets de gesso e próteses para se locomover."
+      "indice": 5,
+      "texto": "Durante sua convalescença, Frida começou a usar um espelho sobre sua cama para pintar autorretratos. A dor e o sofrimento tornaram-se temas centrais de sua arte. Sua mãe mandou adaptar um cavalete especial para que pudesse pintar deitada. Foi nesse período que decidiu seguir a carreira artística."
     },
     {
-        "indice": 6,
-        "texto": "Ela era uma grande admiradora da cultura mexicana e incorporava elementos folclóricos em suas pinturas. Frida usava vestidos coloridos, joias tradicionais e flores no cabelo, criando um estilo único. Sua aparência era uma expressão de sua identidade e orgulho cultural. Ela se tornou um símbolo da arte e da cultura mexicana."
+      "indice": 6,
+      "texto": "Em 1928, Frida se aproximou do Partido Comunista Mexicano e de ativistas políticos. Conheceu Diego Rivera novamente e mostrou-lhe suas pinturas. Ele ficou impressionado com seu talento e incentivou-a a seguir na arte. Iniciaram um romance que resultaria em casamento no ano seguinte."
     },
     {
-        "indice": 7,
-        "texto": "Frida e Diego Rivera se divorciaram em 1939, mas se casaram novamente em 1940. Apesar dos conflitos, eles permaneceram próximos até a morte de Frida. Diego disse que Frida era a melhor coisa que já havia acontecido em sua vida. O relacionamento deles foi uma mistura de amor, arte e sofrimento."
+      "indice": 7,
+      "texto": "Frida Kahlo e Diego Rivera casaram-se em 21 de agosto de 1929, apesar da forte oposição da família dela. A diferença de idade e a infidelidade de Diego marcaram o relacionamento. Ele a chamava de 'menina' e ela, de 'elefante e pombinha'. O casal teve um casamento tumultuado e intenso."
     },
     {
-        "indice": 8,
-        "texto": "Frida Kahlo foi a primeira artista mexicana a ter uma obra adquirida pelo Museu do Louvre, em Paris. O quadro era 'Autorretrato - O Quadro', pintado em 1939. Esse reconhecimento internacional consolidou sua carreira como uma das maiores artistas do século XX. Frida se orgulhava de representar o México no mundo."
+      "indice": 8,
+      "texto": "Em 1930, mudou-se com Diego para os Estados Unidos devido ao trabalho dele como muralista. Moraram em São Francisco, Detroit e Nova York. Frida sofreu um aborto espontâneo em Detroit, o que lhe causou grande sofrimento. A experiência inspirou obras sobre maternidade e dor."
     },
     {
-        "indice": 9,
-        "texto": "Ela era uma ativista política e membro do Partido Comunista Mexicano. Frida e Diego Rivera apoiavam causas sociais e lutavam pelos direitos dos trabalhadores. Sua arte frequentemente refletia suas convicções políticas e sua paixão pela justiça social. Ela via a arte como uma ferramenta de transformação."
+      "indice": 9,
+      "texto": "Em 1933, Frida e Diego retornaram ao México e fixaram residência na Casa Azul, em Coyoacán. Seu casamento continuava conturbado, marcado por traições mútuas. Frida envolveu-se com várias pessoas, incluindo homens e mulheres. Seus problemas de saúde também se agravavam."
     },
     {
-        "indice": 10,
-        "texto": "Frida Kahlo teve um relacionamento próximo com sua família, especialmente com seu pai, Guillermo Kahlo, que era fotógrafo. Ele a incentivou a explorar a arte desde cedo, e ela o admirava profundamente. Frida também era próxima de suas irmãs, apesar de ter tido um relacionamento conturbado com a mais nova, Cristina."
+      "indice": 10,
+      "texto": "Em 1937, o líder comunista russo Leon Trótski e sua esposa, Natalia Sedova, foram abrigados na Casa Azul. Frida e Trótski iniciaram um breve caso amoroso. Pouco depois, o político mudou-se para outra casa. Em 1940, foi assassinado no México, texto que abalou Frida profundamente."
     },
     {
-        "indice": 11,
-        "texto": "Ela era conhecida por seu estilo único, que incluía vestidos coloridos, joias tradicionais mexicanas e flores no cabelo. Seu visual se tornou uma marca registrada e uma expressão de sua identidade cultural. Frida usava a moda como uma forma de arte e resistência. Ela transformou sua aparência em um símbolo de força e beleza."
+      "indice": 11,
+      "texto": "Ao longo da década de 1940, Frida tornou-se uma artista reconhecida internacionalmente. Participou de exposições nos Estados Unidos e na Europa. Seu estilo único chamou a atenção do surrealista André Breton. Apesar disso, Frida rejeitava o rótulo de surrealista."
     },
     {
-        "indice": 12,
-        "texto": "Frida Kahlo sofreu vários abortos espontâneos devido aos ferimentos do acidente. Sua incapacidade de ter filhos foi um tema recorrente em suas pinturas, como em 'Hospital Henry Ford'. Ela expressava sua dor e frustração através da arte. Frida via a maternidade como uma experiência que lhe foi negada."
+      "indice": 12,
+      "texto": "Em 1943, começou a lecionar na Escola de Artes Plásticas La Esmeralda, na Cidade do México. Seus alunos eram chamados de 'Los Fridos' e a admiravam profundamente. Muitas aulas eram realizadas na Casa Azul, devido às suas limitações físicas. Frida incentivava a arte popular mexicana."
     },
     {
-        "indice": 13,
-        "texto": "Ela teve um caso com o revolucionário russo Leon Trotsky, que se refugiou em sua casa no México. Apesar do romance, eles mantiveram uma amizade até o assassinato de Trotsky em 1940. Frida e Diego Rivera eram grandes admiradores de Trotsky e o ajudaram a se esconder dos perseguidores políticos."
+      "indice": 13,
+      "texto": "A saúde de Frida deteriorou-se nos anos 1950, levando-a a passar longos períodos hospitalizada. Submeteu-se a inúmeras cirurgias na coluna e na perna. Desenvolveu dependência de analgésicos para suportar a dor. Ainda assim, continuava a pintar e se expressar artisticamente."
     },
     {
-        "indice": 14,
-        "texto": "Frida Kahlo era uma grande fã de animais e tinha vários pets, incluindo macacos, papagaios e cães. Eles frequentemente aparecem em seus autorretratos, simbolizando sua solidão e afeto. Frida via os animais como companheiros leais em meio à sua dor e isolamento. Ela os tratava como membros da família."
+      "indice": 14,
+      "texto": "Em 1953, realizou sua primeira exposição individual no México, na Galeria de Arte Contemporânea. Os médicos a proibiram de sair da cama, mas ela compareceu de ambulância. Chegou ao evento deitada em uma cama de hospital. Foi ovacionada pelos presentes e celebrou com entusiasmo."
     },
     {
-        "indice": 15,
-        "texto": "Ela foi uma das primeiras artistas a explorar temas como identidade de gênero, dor e sofrimento em suas obras. Sua arte é considerada pioneira na representação da experiência feminina. Frida desafiava os padrões da época e usava sua arte para questionar normas sociais e culturais. Ela se tornou um ícone feminista."
+      "indice": 15,
+      "texto": "Devido à piora de sua saúde, Frida teve sua perna direita amputada abaixo do joelho em 1953. O procedimento a deixou profundamente deprimida. Em seu diário, escreveu: 'Pés, para que os quero, se tenho asas para voar?'. A amputação marcou os últimos meses de sua vida."
     },
     {
-        "indice": 16,
-        "texto": "Frida Kahlo teve uma exposição individual no México em 1953, um ano antes de sua morte. Apesar de estar muito doente, ela compareceu à inauguração em uma cama hospitalar. A exposição foi um sucesso e consolidou sua reputação como uma das maiores artistas do país. Frida se sentiu reconhecida e amada pelo público."
+      "indice": 16,
+      "texto": "Nos últimos meses de vida, Frida engajou-se ativamente em protestos políticos. Em julho de 1954, participou de uma manifestação contra a intervenção dos EUA na Guatemala. Foi sua última aparição pública. Apesar da dor intensa, compareceu à marcha em cadeira de rodas."
     },
     {
-        "indice": 17,
-        "texto": "Ela era uma ávida leitora e mantinha um diário íntimo, onde escrevia sobre seus pensamentos, sentimentos e desenhos. O diário foi publicado após sua morte e é considerado uma obra de arte por si só. Frida usava o diário como um espaço para refletir sobre sua vida, sua arte e suas lutas pessoais."
+      "indice": 17,
+      "texto": "Frida Kahlo faleceu em 13 de julho de 1954, aos 47 anos, na Casa Azul. A causa oficial foi embolia pulmonar, mas há suspeitas de overdose intencional. Em seu diário, deixou mensagens que sugeriam despedida. Seu velório foi realizado no Palácio de Belas Artes do México."
     },
     {
-        "indice": 18,
-        "texto": "Frida Kahlo morreu em 13 de julho de 1954, aos 47 anos. A causa oficial da morte foi uma embolia pulmonar, mas há especulações de que ela possa ter cometido suicídio. Frida deixou um legado de coragem, autenticidade e arte. Sua vida e obra continuam a inspirar pessoas ao redor do mundo."
+      "indice": 18,
+      "texto": "Seus restos mortais foram cremados e suas cinzas permanecem na Casa Azul. A Casa Azul foi transformada em museu em 1958, por desejo de Diego Rivera. O local abriga seus pertences, obras e objetos pessoais. Hoje, é um dos museus mais visitados do México."
     },
     {
-        "indice": 19,
-        "texto": "Após sua morte, Frida Kahlo se tornou um ícone feminista e cultural. Sua vida e obra inspiraram livros, filmes e movimentos artísticos, consolidando seu legado como uma das maiores artistas do século XX. Frida é celebrada por sua autenticidade e por desafiar as convenções da sociedade. Ela é um símbolo de resistência e criatividade."
+      "indice": 19,
+      "texto": "Frida Kahlo produziu cerca de 150 pinturas ao longo de sua vida. A maioria são autorretratos que refletem sua dor física e emocional. Seu estilo combina surrealismo, arte popular mexicana e simbolismo. Muitas de suas obras foram inspiradas por sua identidade e cultura."
     },
     {
-        "indice": 20,
-        "texto": "Frida Kahlo deixou um legado que vai além da arte. Ela é lembrada por sua coragem, sua paixão pela vida e sua capacidade de transformar a dor em beleza. Sua casa, 'La Casa Azul', é hoje um museu que atrai visitantes do mundo todo. Frida continua a inspirar novas gerações de artistas e admiradores."
+      "indice": 20,
+      "texto": "Em 1939, Frida pintou 'As Duas Fridas', uma de suas obras mais famosas. O quadro representa duas versões dela, simbolizando sua dualidade cultural e emocional. Foi criado após sua separação temporária de Diego Rivera. A obra expressa sua solidão e sofrimento."
     },
     {
-        "indice": 21,
-        "texto": "Frida Kahlo era uma mestra em transformar sua dor em arte. Seus quadros frequentemente retratavam suas experiências pessoais, como o acidente que mudou sua vida e as cirurgias que enfrentou. Ela usava a arte como uma forma de terapia e autoconhecimento. Suas obras são um reflexo de sua alma e suas lutas."
+      "indice": 21,
+      "texto": "Frida e Diego se divorciaram em 1939, mas se casaram novamente no ano seguinte. Apesar da reconciliação, o relacionamento continuou turbulento. O casal manteve vidas separadas e relações extraconjugais. Mesmo assim, permaneceram juntos até a morte de Frida."
     },
     {
-        "indice": 22,
-        "texto": "Ela era uma defensora dos direitos das mulheres e da igualdade de gênero. Frida desafiava os papéis tradicionais atribuídos às mulheres em sua época. Sua arte e sua vida pessoal refletiam sua luta pela liberdade e autodeterminação. Ela se tornou um símbolo de empoderamento feminino."
+      "indice": 22,
+      "texto": "Além da pintura, Frida expressava seus sentimentos através da escrita. Manteve um diário pessoal nos últimos dez anos de sua vida. Suas anotações misturavam desenhos, poemas e pensamentos íntimos. O diário foi publicado postumamente e revela sua angústia e paixão."
     },
     {
-        "indice": 23,
-        "texto": "Frida Kahlo tinha um senso de humor único e adorava contar piadas. Apesar de sua dor física e emocional, ela nunca perdeu sua alegria de viver. Seu humor era uma forma de lidar com as dificuldades e de se conectar com as pessoas ao seu redor. Frida era conhecida por sua personalidade cativante."
+      "indice": 23,
+      "texto": "Frida adotou um estilo visual marcante, inspirado na cultura mexicana. Usava vestidos tehuanos, acessórios indígenas e flores no cabelo. Sua aparência refletia orgulho por suas raízes e identidade. Tornou-se um ícone de autenticidade e resistência."
     },
     {
-        "indice": 24,
-        "texto": "Ela era uma grande admiradora da natureza e frequentemente incluía elementos naturais em suas pinturas. Frida via a natureza como uma fonte de inspiração e cura. Sua casa, 'La Casa Azul', era cercada por um jardim exuberante, que ela cuidava com carinho. A natureza era uma extensão de sua arte."
+      "indice": 24,
+      "texto": "Ao longo da vida, Frida sofreu mais de 30 cirurgias devido às sequelas do acidente. Passava meses internada, enfrentando dor intensa e imobilidade. Apesar disso, nunca abandonou a arte e a militância. Suas pinturas refletiam sua luta constante contra o sofrimento."
     },
     {
-        "indice": 25,
-        "texto": "Frida Kahlo era uma artista multifacetada, que explorava diferentes técnicas e estilos. Além da pintura, ela também criava desenhos, colagens e até mesmo roupas. Sua criatividade não tinha limites, e ela estava sempre experimentando novas formas de expressão artística."
+      "indice": 25,
+      "texto": "Em 1938, Frida viajou a Paris para expor suas obras a convite de André Breton. Conheceu artistas como Picasso e Marcel Duchamp. Embora tenha sido bem recebida, criticou o meio artístico europeu. Considerava sua arte profundamente mexicana, não surrealista."
     },
     {
-        "indice": 26,
-        "texto": "Ela era uma grande fã de cinema e adorava assistir a filmes. Frida frequentemente se inspirava no cinema para criar suas pinturas. Ela via o cinema como uma forma de arte que poderia transmitir emoções e histórias de maneira poderosa. Frida também era amiga de vários cineastas da época."
+      "indice": 26,
+      "texto": "Frida não teve filhos, apesar de desejar ser mãe. Sofreu múltiplos abortos espontâneos devido a seus problemas de saúde. Esse sofrimento foi retratado em diversas pinturas, como 'Hospital Henry Ford'. Sua frustração com a maternidade permeia grande parte de sua obra."
     },
     {
-        "indice": 27,
-        "texto": "Frida Kahlo era uma defensora dos direitos dos indígenas e das minorias no México. Ela viajava pelo país para aprender sobre as tradições e a cultura local. Frida incorporava esses elementos em sua arte, celebrando a diversidade e a riqueza cultural do México. Ela era uma verdadeira patriota."
+      "indice": 27,
+      "texto": "No final da vida, Frida dependia de cadeira de rodas e morfina. Apesar da dor, continuava pintando e recebendo amigos na Casa Azul. Em 1954, produziu sua última obra, 'Viva la Vida', uma pintura de melancias. Sua última frase registrada foi: 'Espero a partida com alegria... e espero nunca mais voltar.'"
     },
     {
-        "indice": 28,
-        "texto": "Ela era uma artista autodidata, que aprendeu a pintar sozinha durante sua recuperação do acidente. Frida não frequentou uma escola de arte formal, mas desenvolveu seu próprio estilo único. Sua técnica era marcada por cores vibrantes e detalhes minuciosos. Ela era uma verdadeira inovadora."
+      "indice": 28,
+      "texto": "Após sua morte, Frida tornou-se um símbolo do feminismo e da resistência. Sua arte é estudada por abordar temas como identidade, dor e política. Foi reconhecida tardiamente como uma das maiores artistas do século XX. Hoje, sua figura é reverenciada mundialmente."
     },
     {
-        "indice": 29,
-        "texto": "Frida Kahlo era uma grande admiradora da música tradicional mexicana. Ela frequentemente ouvia música enquanto pintava, o que a inspirava e a ajudava a se concentrar. Frida via a música como uma forma de expressão cultural e emocional. Ela também tocava violão e cantava."
+      "indice": 29,
+      "texto": "A Casa Azul, onde Frida nasceu e morreu, é um dos museus mais visitados do México. Exibe suas roupas, pinturas, diários e objetos pessoais. O espaço preserva a atmosfera íntima de sua vida e obra. Milhares de visitantes vão ao local anualmente para conhecer sua história."
     },
     {
-        "indice": 30,
-        "texto": "Ela era uma artista que não se limitava às convenções da época. Frida explorava temas tabus, como a sexualidade e a morte, em suas obras. Sua arte era ousada e desafiadora, e ela não tinha medo de expressar suas opiniões e sentimentos. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 31,
-        "texto": "Frida Kahlo era uma grande admiradora da literatura e tinha uma vasta coleção de livros. Ela se inspirava em autores como Goethe, Tolstói e Freud para criar suas obras. Frida via a literatura como uma forma de expandir seus horizontes e entender o mundo ao seu redor."
-    },
-    {
-        "indice": 32,
-        "texto": "Ela era uma artista que valorizava a autenticidade acima de tudo. Frida não se importava com as críticas ou com o que os outros pensavam de sua arte. Ela pintava o que sentia e acreditava, sem se preocupar em agradar aos outros. Frida era verdadeiramente única."
-    },
-    {
-        "indice": 33,
-        "texto": "Frida Kahlo era uma grande admiradora da dança e frequentemente participava de festas e celebrações tradicionais mexicanas. Ela via a dança como uma forma de expressão cultural e social. Frida adorava dançar e se divertir, apesar de sua dor física."
-    },
-    {
-        "indice": 34,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 35,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 36,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 37,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 38,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 39,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 40,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 41,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 42,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 43,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 44,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 45,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 46,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 47,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 48,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 49,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 50,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 51,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 52,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 53,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 54,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 55,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 56,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 57,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 58,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 59,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 60,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 61,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 62,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 63,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 64,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 65,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 66,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 67,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 68,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 69,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 70,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 71,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 72,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 73,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 74,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 75,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 76,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 77,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 78,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 79,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 80,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 81,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 82,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 83,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 84,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 85,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 86,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 87,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 88,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 89,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 90,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 91,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 92,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 93,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 94,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
-    },
-    {
-        "indice": 95,
-        "texto": "Frida Kahlo era uma grande admiradora da arte pré-colombiana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte pré-colombiana como uma forma de conectar-se com as raízes do México. Frida colecionava artefatos e esculturas pré-colombianas."
-    },
-    {
-        "indice": 96,
-        "texto": "Ela era uma artista que não se limitava às técnicas tradicionais de pintura. Frida experimentava com diferentes materiais e métodos, como a colagem e a fotografia. Sua criatividade não tinha limites, e ela estava sempre buscando novas formas de expressão."
-    },
-    {
-        "indice": 97,
-        "texto": "Frida Kahlo era uma grande admiradora da culinária mexicana e adorava cozinhar para sua família e amigos. Ela via a comida como uma forma de expressão cultural e afeto. Frida frequentemente incluía elementos da culinária mexicana em suas festas e reuniões."
-    },
-    {
-        "indice": 98,
-        "texto": "Ela era uma artista que não se importava com as convenções sociais. Frida desafiava os padrões de beleza e comportamento da época. Ela usava sua aparência e sua arte para questionar as normas sociais e culturais. Frida era uma verdadeira revolucionária."
-    },
-    {
-        "indice": 99,
-        "texto": "Frida Kahlo era uma grande admiradora da arte popular mexicana e frequentemente incorporava elementos dessa cultura em suas obras. Ela via a arte popular como uma forma de expressão autêntica e genuína. Frida colecionava artefatos e objetos de arte popular."
-    },
-    {
-        "indice": 100,
-        "texto": "Ela era uma artista que não se limitava às fronteiras do México. Frida viajou para vários países, como os Estados Unidos e a França, para expor suas obras. Ela era uma embaixadora da cultura mexicana e se orgulhava de representar seu país no exterior."
+      "indice": 30,
+      "texto": "A influência de Frida Kahlo transcende a arte, alcançando a moda e a cultura pop. Sua imagem é usada como símbolo de autenticidade e rebeldia. Inspirou livros, filmes e coleções de moda ao redor do mundo. Sua vida e obra continuam impactando gerações."
     }
 ]
+  

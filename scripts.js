@@ -33,6 +33,6 @@ inputFato.addEventListener("keypress", (evento) => {
 botaoBuscar.addEventListener("click", () => buscarFato(inputFato.value));
 
 botaoFatoAleatorio.addEventListener("click", () => {
-    const indice = parseInt(Math.random() * 100 + 1);
+    const indice = parseInt(Math.random() * 30 + 1);
     buscarFato(indice);
 })
