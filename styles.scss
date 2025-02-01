@@ -115,6 +115,7 @@ body {
             .fato_texto {
                 width: 50%;
                 line-height: 1.5rem;
+                text-align: justify;
                 @media screen and (max-width: 768px) {
                     width: 80%;
                 }
