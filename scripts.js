@@ -9,7 +9,8 @@ async function carregarFatos(url) {
         const fatosJSON = await fetch(url)
         return await fatosJSON.json();
     } catch (erro) {
-        alert("Erro ao carregar fatos. Tente novamente mais tarde.");
+        alert("Erro ao carregar fatos. Tente novamente mais tarde.")
+        throw new Error;
     }
 }
 
