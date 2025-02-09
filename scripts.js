@@ -5,8 +5,12 @@ const botaoFatoAleatorio = document.getElementById("botao-aleatorio");
 const texto = document.querySelector(".sobre_frida");
 
 async function carregarFatos(url) {
-    const fatosJSON = await fetch(url);
-    return await fatosJSON.json();
+    try {
+        const fatosJSON = await fetch(url)
+        return await fatosJSON.json();
+    } catch (erro) {
+        alert("Erro ao carregar fatos. Tente novamente mais tarde.");
+    }
 }
 
 async function buscarFato(parametro) {
