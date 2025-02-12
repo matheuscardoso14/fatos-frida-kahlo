@@ -4,6 +4,8 @@ import "./styles.scss";
 const URL_BASE =
   "https://gist.githubusercontent.com/matheuscardoso14/b753cf5d6ad874ef713847aebd165e03/raw/7254f22653214aa09ed32184289d080785b7038e/fatos.json";
 
+const validacaoNumeroFato = /^[0-9]{1,2}$/;
+
 const formularioDeBusca = document.querySelector("form");
 const inputFato = document.querySelector(".buscar_fato__input");
 const botaoBuscar = document.getElementById("botao-buscar");
@@ -32,17 +34,37 @@ async function buscarFato(parametro) {
   });
 }
 
+function validarFato(fato) {
+  if (!validacaoNumeroFato.test(fato) || fato < 1 || fato > 30) {
+    alert("Digite um número válido de 1 a 30.");
+    return false;
+  }
+}
+
 formularioDeBusca.addEventListener("submit", (evento) =>
   evento.preventDefault()
 );
 
 inputFato.addEventListener("keypress", (evento) => {
   if (evento.key == "Enter") {
-    buscarFato(inputFato.value);
+    evento.preventDefault();
+    const fato = inputFato.value.trim();
+    if (validarFato(fato) === false) {
+      inputFato.value = "";
+      return;
+    }
+    buscarFato(fato);
   }
 });
 
-botaoBuscar.addEventListener("click", () => buscarFato(inputFato.value));
+botaoBuscar.addEventListener("click", () => {
+  const fato = inputFato.value.trim();
+  if (validarFato(fato) === false) {
+    inputFato.value = "";
+    return;
+  }
+  buscarFato(fato);
+});
 
 botaoFatoAleatorio.addEventListener("click", () => {
   const indice = parseInt(Math.random() * 30 + 1);
