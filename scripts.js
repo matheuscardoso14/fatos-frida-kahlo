@@ -1,3 +1,4 @@
+import axios from "axios";
 import "./styles.scss";
 
 const URL_BASE =
@@ -11,11 +12,10 @@ const texto = document.querySelector(".sobre_frida");
 
 async function carregarFatos(url) {
   try {
-    const fatosJSON = await fetch(url);
-    return await fatosJSON.json();
+    const fatosJSON = await axios.get(url);
+    return await fatosJSON.data;
   } catch (erro) {
     alert("Erro ao carregar fatos. Tente novamente mais tarde.");
-    throw new Error();
   }
 }
 
