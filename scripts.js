@@ -1,5 +1,8 @@
 import "./styles.scss";
 
+const URL_BASE =
+  "https://gist.githubusercontent.com/matheuscardoso14/b753cf5d6ad874ef713847aebd165e03/raw/7254f22653214aa09ed32184289d080785b7038e/fatos.json";
+
 const formularioDeBusca = document.querySelector("form");
 const inputFato = document.querySelector(".buscar_fato__input");
 const botaoBuscar = document.getElementById("botao-buscar");
@@ -18,7 +21,7 @@ async function carregarFatos(url) {
 
 async function buscarFato(parametro) {
   inputFato.value = "";
-  const fatos = await carregarFatos("./fatos.json");
+  const fatos = await carregarFatos(URL_BASE);
   const fatoBuscado = parametro;
   fatos.forEach((fato) => {
     if (fatoBuscado == fato.indice) {
