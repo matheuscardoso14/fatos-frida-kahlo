@@ -21,17 +21,21 @@ async function carregarFatos(url) {
   }
 }
 
-async function buscarFato(parametro) {
+async function buscarFato(fatoBuscado) {
+  if (validarFato(fatoBuscado) === false) {
+    inputFato.value = "";
+    return;
+  }
   inputFato.value = "";
   const fatos = await carregarFatos(URL_BASE);
-  const fatoBuscado = parametro;
-  fatos.forEach((fato) => {
-    if (fatoBuscado == fato.indice) {
-      texto.style.flexDirection = "column";
-      texto.style.gap = "2rem";
-      texto.innerHTML = `<h3 class="fato-${fato.indice}_titulo fato_titulo">Fato ${fato.indice}</h3><p class="fato-${fato.indice}_texto fato_texto">${fato.texto}</p>`;
-    }
-  });
+  const fato = fatos.find((fato) => fatoBuscado == fato.indice);
+  return fato;
+}
+
+function mostrarFato(fato) {
+  texto.style.flexDirection = "column";
+  texto.style.gap = "2rem";
+  texto.innerHTML = `<h3 class="fato-${fato.indice}_titulo fato_titulo">Fato ${fato.indice}</h3><p class="fato-${fato.indice}_texto fato_texto">${fato.texto}</p>`;
 }
 
 function validarFato(fato) {
@@ -45,28 +49,35 @@ formularioDeBusca.addEventListener("submit", (evento) =>
   evento.preventDefault()
 );
 
-inputFato.addEventListener("keypress", (evento) => {
+inputFato.addEventListener("keypress", async (evento) => {
   if (evento.key == "Enter") {
     evento.preventDefault();
-    const fato = inputFato.value.trim();
-    if (validarFato(fato) === false) {
-      inputFato.value = "";
+    try {
+      const fatoBuscado = inputFato.value.trim();
+      const fato = await buscarFato(fatoBuscado);
+      mostrarFato(fato);
+    } catch {
       return;
     }
-    buscarFato(fato);
   }
 });
 
-botaoBuscar.addEventListener("click", () => {
-  const fato = inputFato.value.trim();
-  if (validarFato(fato) === false) {
-    inputFato.value = "";
+botaoBuscar.addEventListener("click", async () => {
+  try {
+    const fatoBuscado = inputFato.value.trim();
+    const fato = await buscarFato(fatoBuscado);
+    mostrarFato(fato);
+  } catch {
     return;
   }
-  buscarFato(fato);
 });
 
-botaoFatoAleatorio.addEventListener("click", () => {
-  const indice = parseInt(Math.random() * 30 + 1);
-  buscarFato(indice);
+botaoFatoAleatorio.addEventListener("click", async () => {
+  try {
+    const fatoBuscado = parseInt(Math.random() * 30 + 1);
+    const fato = await buscarFato(fatoBuscado);
+    mostrarFato(fato);
+  } catch {
+    return;
+  }
 });
